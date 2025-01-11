@@ -14,7 +14,7 @@ def sum_of_digits_in_text(text):
             total_sum += num
     return total_sum
 
-# Пример использования
-text = "asjfhkasdjgh67asjkfhaskf3"
+# ВходныеДанные
+text = "asjfhkasdjgh67asjkfhaskf3Dasasfjf6789121234ddas1"
 result = sum_of_digits_in_text(text)
 print("Результат:", result)
